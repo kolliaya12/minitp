@@ -1,0 +1,11 @@
+body{
+    background-color: darksalmon;
+}
+.container{
+    background-color: blanchedalmond;
+    position:absolute;
+    top: 30%;
+    left:42%;
+    border-radius: 10px;
+    padding: 30px;
+}
